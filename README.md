@@ -1,2 +1,2 @@
-# hassan-predict-mpdel
+# hassan-first-predict-model
 prediction for salary
